@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/open.svg</file>
+        <file>icons/kit.png</file>
+        <file>icons/surf.svg</file>
+        <file>icons/decompose.svg</file>
+        <file>icons/files.svg</file>
+        <file>icons/setting.svg</file>
+        <file>icons/particle.svg</file>
+        <file>icons/Icon1.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/atoms.svg</file>
+        <file>icons/Refresh.svg</file>
+        <file>icons/SettingFile.svg</file>
+        <file>icons/upload.svg</file>
+        <file>icons/Download.svg</file>
+        <file>icons/color.svg</file>
+        <file>icons/face.svg</file>
+        <file>icons/material.svg</file>
+        <file>icons/check.svg</file>
+        <file>icons/hide.svg</file>
+        <file>icons/show.svg</file>
+        <file>icons/McCad_Serpent.svg</file>
+        <file>icons/McCad_Tripoli.svg</file>
+        <file>icons/McCad_Mcnp.svg</file>
+    </qresource>
+</RCC>
